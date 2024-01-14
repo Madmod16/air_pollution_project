@@ -1,1 +1,1 @@
-# air_pollution_project 
+This project involves the development of three R functions for analyzing environmental data related to pollutant concentrations. The functions aim to calculate the mean of a pollutant, determine the number of completely observed cases in each data file, and calculate the correlation between sulfate and nitrate concentrations for monitor locations meeting a specified threshold for complete cases
